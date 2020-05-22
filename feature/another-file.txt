@@ -3,3 +3,5 @@ New file created online.
 This file was modified locally.
 
 This line was added locally in feature-2 branch.
+
+Another modification to feature-2
